@@ -1,0 +1,5 @@
+streamlit
+groq
+tiktoken
+PyPDF2
+python-pptx
